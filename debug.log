@@ -1,0 +1,5 @@
+[0918/131910.124:ERROR:registration_protocol_win.cc(103)] CreateFile: El sistema no puede encontrar el archivo especificado. (0x2)
+[0918/132358.450:ERROR:registration_protocol_win.cc(103)] CreateFile: El sistema no puede encontrar el archivo especificado. (0x2)
+[0918/133618.778:ERROR:process_info.cc(329)] VirtualQueryEx: Acceso denegado. (0x5)
+[0918/133618.788:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0918/133618.788:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
